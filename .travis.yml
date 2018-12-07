@@ -1,4 +1,4 @@
 osx_image: xcode10.1
 language: swift
 script:
-  - ls
+  - bundle exec fastlane test
